@@ -5,5 +5,5 @@ const button = document.querySelector("input[type='button']");
 
 button.eventListener("click",function())
 {
-	select.remove(select.selectedIndex)
+	js.remove(js.selectedIndex)
 }
